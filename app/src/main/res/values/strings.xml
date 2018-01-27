@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MyRound</string>
+    <string name="app_name">My Round</string>
+    <string name="tea">Tea</string>
 </resources>
